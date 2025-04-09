@@ -29,14 +29,19 @@ npm run test
 ## Usage
 
 ```javascript
+const { pathify } = require("@sbimochan/pathify");
+const output = pathify(input);
+```
+
+```javascript
 const input = {
   user: {
     profile: {
-      name: '',
-      age: ''
+      name: "",
+      age: ""
     },
     settings: {
-      theme: ''
+      theme: ""
     }
   }
 };
@@ -57,4 +62,3 @@ const input = {
   }
 }
 ```
-
