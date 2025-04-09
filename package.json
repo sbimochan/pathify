@@ -15,6 +15,9 @@
     "keys",
     "schema"
   ],
+  "files": [
+    "src"
+  ],
   "author": "Bimochan Shrestha",
   "license": "MIT",
   "bugs": {
