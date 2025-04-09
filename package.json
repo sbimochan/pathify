@@ -1,5 +1,5 @@
 {
-  "name": "pathify",
+  "name": "@sbimochan/pathify",
   "version": "1.0.0",
   "description": "A lightweight utility that recursively walks through a nested JavaScript object and replaces all leaf values with their corresponding dot-notation paths.",
   "main": "src/index.js",
