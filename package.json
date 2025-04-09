@@ -1,0 +1,24 @@
+{
+  "name": "pathify",
+  "version": "1.0.0",
+  "description": "A lightweight utility that recursively walks through a nested JavaScript object and replaces all leaf values with their corresponding dot-notation paths.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node __tests__/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbimochan/pathify.git"
+  },
+  "keywords": [
+    "json",
+    "keys",
+    "schema"
+  ],
+  "author": "Bimochan Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sbimochan/pathify/issues"
+  },
+  "homepage": "https://github.com/sbimochan/pathify#readme"
+}
